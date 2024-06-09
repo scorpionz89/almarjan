@@ -1,0 +1,529 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: DeepL for WordPress : translation plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-10-17 09:38+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: wpdeeplpro/includes/deeplpro-bulk-actions.php:104
+msgid "%d post translated."
+msgstr ""
+
+#: wpdeeplpro/includes/deeplpro-bulk-actions.php:102
+msgid "%d posts translated."
+msgstr ""
+
+#: client/deeplapi-functions.php:59 wpdeepl/client/deeplapi-functions.php:59
+#, php-format
+msgid "%s / %s characters translated"
+msgstr ""
+
+#: client/deeplapi-functions.php:57 wpdeepl/client/deeplapi-functions.php:57
+#, php-format
+msgid "%s characters remaining"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:303
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:303
+msgid "'Side' = metabox on the side column, 'Normal' = on the main column"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:78
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:78
+#, php-format
+msgid "<a href=\"%s\">Please provide required informations</a>"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:127
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:127
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">Create a DeepL Pro account here</a>. Get "
+"your <a target=\"_blank\" href=\"%s\">API key there</a>"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:108
+msgid ""
+"<b>Warning:</b> When translating terms, if you're not using Polylang, the "
+"translation will create the translated terms if they're not found"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:65
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:65
+#, php-format
+msgid "<li><a href=\"%s\">%s</a></li>"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:305
+msgid "Add bulk actions for these post types"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:123
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:123
+msgid "API Key"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:134
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:134
+msgid "API Server"
+msgstr ""
+
+#: deepl-configuration.class.php:163 wpdeepl/deepl-configuration.class.php:163
+msgid "Append to content"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:24
+#: wpdeepl/admin/deepl-admin-functions.php:24
+msgid "Automatic"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:106
+msgid ""
+"Best choice is to have managed translations (like Polylang term translation "
+"management). Next best choice is NOT to translate taxonomies."
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:91
+msgid "Blocs ACF Featured:"
+msgstr ""
+
+#: deepl-configuration.class.php:265 wpdeepl/deepl-configuration.class.php:265
+msgid "Bulk translate"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:298
+msgid "Bulk translation"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:62
+#: wpdeepl/admin/deepl-admin-functions.php:62
+msgid "Clear logs"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:69
+msgid "Comments"
+msgstr ""
+
+#: deepl-configuration.class.php:266 wpdeepl/deepl-configuration.class.php:266
+msgid "Content types"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:294
+msgid "Create new posts"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:91
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:91
+msgid "Credentials"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:154
+msgid "Custom fields (ACF)"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:118
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:118
+msgid "DeepL credentials"
+msgstr ""
+
+#. Name of the plugin
+msgid "DeepL for WordPress : translation plugin"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:36
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:36
+msgid "DeepL settings"
+msgstr ""
+
+#: admin/deepl-metabox.php:21
+#: settings/wp-improved-settings-wpdeepl.class.php:40
+#: wpdeepl/admin/deepl-metabox.php:21
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:40
+msgid "DeepL translation"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:156
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:156
+msgid "default"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:166
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:166
+msgid "Default target language"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:341
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:341
+msgid "Delete logs from previous months"
+msgstr ""
+
+#: client/deeplapi-functions.php:67 wpdeepl/client/deeplapi-functions.php:67
+#, php-format
+msgid ""
+"Did you select the right server ? If yes, check your plan on <a href=\"%s\">"
+"DeepL Pro website</a>. \"DeepL API\" should be included in it."
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:174
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:174
+msgid "Displayed languages"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:52
+#: wpdeepl/admin/deepl-admin-functions.php:52
+msgid "Dont't translate"
+msgstr ""
+
+#: wpdeepl.php:80 wpdeepl/wpdeepl.php:80 wpdeeplpro/wpdeeplpro.php:57
+msgid "Error loading WPDeepL"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:123
+#: wpdeepl/admin/deepl-admin-functions.php:123
+#, php-format
+msgid "File '%s' for %s"
+msgstr ""
+
+#. Author of the plugin
+msgid "Fluenx"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:157
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:157
+msgid "formal"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:209
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:209
+msgid "Formality level"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:230
+#: settings/wp-improved-settings-wpdeepl.class.php:241
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:230
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:241
+#, php-format
+msgid "Formality level : %s"
+msgstr ""
+
+#: deepl-configuration.class.php:30 wpdeepl/deepl-configuration.class.php:30
+msgid "Free API plan (https://api-free.deepl.com)"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:329
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:329
+msgid "Full"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Get DeepL translation magic right inside your WordPress editor (with a paid "
+"DeepL Pro account)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.fluenx.com/"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:158
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:158
+msgid "informal"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:99
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:99
+msgid "Integration"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:40
+msgid "License"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:73
+#: wpdeepl/admin/deepl-admin-functions.php:73
+msgid "Log files deleted"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:324
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:324
+msgid "Log level"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:320
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:320
+msgid "Logging"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:112
+#: wpdeepl/admin/deepl-admin-functions.php:112
+msgid "Logs"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:103
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:103
+msgid "Maintenance"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:73
+msgid "Manage comments"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:246
+msgid "Meta keys"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:272
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:272
+msgid "Metabox"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:295
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:295
+msgid "Metabox context"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:307
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:307
+msgid "Metabox priority"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:276
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:276
+msgid "Metabox should be displayed on:"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:328
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:328
+msgid "Minimal"
+msgstr ""
+
+#: admin/deepl-admin-functions.php:139
+#: wpdeepl/admin/deepl-admin-functions.php:139
+msgid "No log files"
+msgstr ""
+
+#: client/deeplapi-functions.php:65 wpdeepl/client/deeplapi-functions.php:65
+msgid "No response from the server"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:327
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:327
+msgid "None"
+msgstr ""
+
+#: modules/deepl-translate-post.php:204
+#: wpdeepl/modules/deepl-translate-post.php:204
+#: wpdeeplpro/includes/deeplpro-comments.php:67
+msgid "Nothing to update"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:139
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:139
+#, php-format
+msgid ""
+"Pick a plan on <a href=\"https://www.deepl.com/pro-account/plan\">%s</a>"
+msgstr ""
+
+#: admin/deepl-metabox.php:52 wpdeepl/admin/deepl-metabox.php:52
+msgid "Please save or publish the post first"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:314
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:314
+msgid "Position of the metabox in the column"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:200
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:200
+msgid "Post content"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:194
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:194
+msgid "Post excerpt"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:188
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:188
+msgid "Post title"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:302
+msgid "Post types for bulk actions"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:34
+msgid "Pro settings"
+msgstr ""
+
+#: deepl-configuration.class.php:26 wpdeepl/deepl-configuration.class.php:26
+msgid "Regular paid API Plan (https://api.deepl.com/v2/)"
+msgstr ""
+
+#: deepl-configuration.class.php:162 wpdeepl/deepl-configuration.class.php:162
+msgid "Replace content"
+msgstr ""
+
+#: client/deeplapi-functions.php:61 wpdeepl/client/deeplapi-functions.php:61
+msgid "Request done in: %f milliseconds"
+msgstr ""
+
+#: deepl-configuration.class.php:268 wpdeepl/deepl-configuration.class.php:268
+msgid "Select which kind of content you want to be able to translate"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:281
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:281
+msgid ""
+"Select which post types you want the metabox to appear on. To duplicate "
+"posts in different languages (as a starting point for translation), it might "
+"be useful to use the \"Duplicate post\" feature of Polylang Pro, or a "
+"\"Duplicate post\" plugin."
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:84
+msgid "SEO slug:"
+msgstr ""
+
+#: wpdeepl.php:108 wpdeepl/wpdeepl.php:108 wpdeeplpro/wpdeeplpro.php:65
+msgid "Settings"
+msgstr ""
+
+#: deepl-configuration.class.php:270 wpdeepl/deepl-configuration.class.php:270
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:319
+msgid "Show these target languages in bulk menu"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:80
+msgid "Specific fields"
+msgstr ""
+
+#: client/deeplapi-functions.php:13 wpdeepl/client/deeplapi-functions.php:13
+#, php-format
+msgid "Target language '%s' not valid"
+msgstr ""
+
+#: deepl-configuration.class.php:269 wpdeepl/deepl-configuration.class.php:269
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:316
+msgid "Target languages for bulk actions"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:111
+msgid "Taxonomies"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:73
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:73
+#, php-format
+msgid "The DeepL plugin is not fully configured yet: <ul>%s</ul>"
+msgstr ""
+
+#: modules/deepl-translate-post.php:11
+#: wpdeepl/modules/deepl-translate-post.php:11
+msgid "The translation has failed. See logs for details"
+msgstr ""
+
+#: modules/deepl-translate-post.php:7
+#: wpdeepl/modules/deepl-translate-post.php:7
+msgid "This post has been translated."
+msgstr ""
+
+#: admin/deepl-metabox.php:86 wpdeepl/admin/deepl-metabox.php:86
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:86
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:93
+msgid "Translate"
+msgstr ""
+
+#: deepl-configuration.class.php:267 wpdeepl/deepl-configuration.class.php:267
+msgid "Translate contents"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:202
+#, php-format
+msgid "Translate custom fields (ACF) (%s):"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:268
+#, php-format
+msgid "Translate metas (%s):"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:293
+msgid "Translate posts in place"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:141
+#, php-format
+msgid "Translate terms (%s):"
+msgstr ""
+
+#: deepl-configuration.class.php:263 wpdeepl/deepl-configuration.class.php:263
+#: wpdeeplpro/includes/deeplpro-bulk-actions.php:40
+#, php-format
+msgid "Translate to %s"
+msgstr ""
+
+#: deepl-configuration.class.php:264 wpdeepl/deepl-configuration.class.php:264
+msgid "Translated %d posts."
+msgstr ""
+
+#: admin/deepl-metabox.php:83 wpdeepl/admin/deepl-metabox.php:83
+msgid "Translating to"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:95
+#: settings/wp-improved-settings-wpdeepl.class.php:162
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:95
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:162
+#: wpdeeplpro/includes/deeplpro-translate-column.php:16
+msgid "Translation"
+msgstr ""
+
+#: settings/wp-improved-settings-wpdeepl.class.php:184
+#: wpdeepl/settings/wp-improved-settings-wpdeepl.class.php:184
+msgid "Translation by default"
+msgstr ""
+
+#: modules/deepl-translate-post.php:209
+#: wpdeepl/modules/deepl-translate-post.php:209
+#: wpdeeplpro/includes/deeplpro-comments.php:72
+msgid "Translation error"
+msgstr ""
+
+#: client/deeplapi-functions.php:44 wpdeepl/client/deeplapi-functions.php:44
+msgid "Usage"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:310
+msgid "What to do when bulk translating ?"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:104
+msgid ""
+"When dealing with unmanaged translated hierarchical taxonomies (like Post "
+"Categories with no relationship between translations), this can create "
+"duplicates"
+msgstr ""
+
+#: wpdeeplpro/wpdeeplpro.php:107 wpdeeplpro/wpdeeplpro.php:127
+#, php-format
+msgid ""
+"WPDeepL Pro extension needs the <a target=\"_blank\" href=\"%s\">WPDeepL "
+"plugin</a> installed and activated to run. Please install or activate"
+msgstr ""
+
+#: wpdeeplpro/admin/deeplpro-admin-hooks.php:47
+msgid ""
+"You can get your license key on <a target=\"_blank\" href=\"https:"
+"//solutions.fluenx.com/mon-compte/\">your account</a>"
+msgstr ""

@@ -1,0 +1,294 @@
+.webgeniuslab_page_wgl-import-panel #wpfooter{
+    display: none;
+}
+.wgl_importer h3.theme-name{
+    line-height: 1.3;
+    border:none;
+}
+.wgl_importer .theme-actions{
+   opacity: 1 !important;
+}
+
+.wgl_importer .theme-actions .button-primary{
+    cursor: pointer;
+    position: relative;
+    height: 40px;
+    line-height: 38px;
+    padding: 0 28px 1px;
+    text-transform: capitalize;
+    font-size: 16px;
+}
+.wgl_importer .theme-actions .importer-button{
+    margin-top: 20px;
+}
+.wgl_importer .theme-browser{
+    margin-top: 30px;
+    margin-left: 2px;
+    margin-right: 20px;
+    background: #fff;
+    box-shadow: 4px 6px 21px 0px rgb(60 62 63 / 10%);
+    padding: 48px 20px;
+}
+.wgl_importer .theme-browser .themes{
+    display: flex;    
+    column-gap: 30px;
+}
+.wgl_importer .theme-browser .themes .themes__content{
+    padding-top: 42px;
+}
+.wgl_importer .theme-browser .theme-screenshot{
+    max-width: 540px;
+    overflow: hidden;
+}
+.wgl_importer .theme-browser .theme-screenshot img{
+    max-width: none !important;
+    width:100% !important;
+}
+.wgl_importer .theme-browser .theme:focus .more-details, 
+.wgl_importer .theme-browser .theme:hover .more-details {
+    opacity: 1;
+}
+.wgl_importer .theme-browser .wgl-importer-choose label{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.wgl_importer .theme-browser .wgl-importer-choose select{
+    display: block;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+    height: 48px;
+    padding: 10px 15px;
+    font-size: 16px;
+    line-height: 1.3333333;
+    background-color: #f9f9f9;
+    background-repeat: no-repeat;
+    background-position: calc(100% - 15px) center;
+    margin-bottom: 20px;
+}
+.wgl_importer .theme-browser .wgl-custom-pages label{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.wgl_importer .theme-browser .wgl-custom-pages label,
+.wgl_importer .theme-browser .cpt-label__headings{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.wgl_importer .theme-browser .cpt-label__headings{
+    margin-top: 30px;
+}
+.wgl_importer .theme-browser .wgl-custom-pages .select2-container{
+    min-width: 400px;
+}
+.wgl_importer .theme-browser .wgl-custom-pages .select2-selection--multiple{
+    display: block;
+    width: 100%;
+    border: 1px solid #e7e7e7;
+    min-height: 48px;
+    padding: 5px 10px 0px;
+    margin-bottom: -5px;
+    font-size: 16px;
+    line-height: 1.3333333;
+    min-width: 400px;
+    background: #f9f9f9 url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBzdHlsZT0iZmlsbDojNTU1NTU1OyI+PHBhdGggZD0iTTI0IDEwaC0xMHYtMTBoLTR2MTBoLTEwdjRoMTB2MTBoNHYtMTBoMTB6Ii8+PC9zdmc+) no-repeat right 5px top 55%;
+    background-size: 10px;
+    background-position: calc(100% - 15px) center;
+    margin-bottom: 0px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.wgl_importer .theme-browser .wgl-custom-pages{
+    margin-bottom: 20px;
+}
+.wgl_importer .importer-button{
+    margin-top:0;
+}
+.wgl_importer #wbc-importer-reimport{
+    margin-left:4px;
+    display: none;
+}
+.wgl_importer .theme-browser .theme:hover #wbc-importer-reimport{
+    display: inline-block;
+}
+.wbc-importer-info{
+    background-color: #fff;
+    border-left: 4px solid orange;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.1);
+    padding: 1px 12px;
+}
+.wrap-importer{
+    display: none;
+}
+.import__select{	
+    position: relative;	
+}	
+.import__select .overlay__import{	
+    position: absolute;	
+    left: 0;	
+    top: 0;	
+    width: 100%;	
+    height: 100%;	
+    opacity: 0;	
+    z-index: 2;	
+    pointer-events: none;	
+    background-color: rgba(255, 255, 255, .5);	
+}	
+.import__select.active_import .overlay__import{	
+    pointer-events: initial;	
+}
+/* Checkbox */
+
+/* The container */
+.checkbox-container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 14px;
+    user-select: none;
+    padding-top: 5px;
+    font-weight: 600;
+}
+.wrapper-notify-demo{
+    margin-top: 30px;
+    margin-left: 2px;
+    margin-right: 20px;
+    background: #fff;
+    box-shadow: 4px 6px 21px 0px rgb(60 62 63 / 10%);
+    display: flex;
+    padding: 48px 30px;
+    font-size: 16px;
+    font-weight: 600;
+    align-items: center;
+}
+/* Hide the browser's default checkbox */
+.checkbox-container input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+  
+/* Create a custom checkbox */
+.checkbox-container .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+  
+/* On mouse-over, add a grey background color */
+.checkbox-container:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+  
+/* When the checkbox is checked, add a blue background */
+.checkbox-container input:checked ~ .checkmark {
+    background-color: #2196F3;
+}
+  
+/* Create the checkmark/indicator (hidden when not checked) */
+.checkbox-container .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+/* Show the checkmark when checked */
+.checkbox-container input:checked ~ .checkmark:after {
+    display: block;
+}
+  
+/* Style the checkmark/indicator */
+.checkbox-container .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    transform: rotate(45deg);
+}
+/* \End Checkbox */
+
+#info-opt-info-success{
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 3px 3px 3px 3px;
+    color: #270;
+    background-color: #DFF2BF;
+    display: none;
+}
+
+#info-opt-info-success i{
+   margin-right: 5px; 
+}
+.importer_status{
+    margin-top: 10px;
+}
+.wgl_importer .progressbar{
+    display: block;
+    border-radius: unset;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 500;
+    transition: 1.5s;    
+    width: 500px;
+}
+.wgl_importer .progressbar_condition{
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    box-sizing: content-box;
+    transition: inherit;  
+    height: 10px;
+    background-color: #eaedef;
+    margin: 12px 0px 0px 0px;
+    border-radius: 5px 5px 5px 5px;
+}
+.wgl_importer .progressbar_condition .progressbar_filled{
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    transition: inherit;
+    height: 10px;
+    background-color: transparent;
+    background-image: linear-gradient(90deg, #7CD2CC 0%, #80A0DF 100%);
+    border-radius: 5px 5px 5px 5px;
+}
+.wgl_importer .progressbar_content{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    position: relative;
+    line-height: 1;
+    white-space: nowrap;
+    transition: inherit;   
+}
+.wgl_importer .progressbar_content .progressbar_value{
+    position: relative;
+    z-index: 0;
+    margin-top: 1px;
+    margin-left: 5px;
+    padding: 4px 6.5px;
+    border-radius: 10px;
+    font-size: 12px;
+    font-weight: 700;   
+    margin-left: 0;
+    transform: translateX(50%);
+    color: #ffffff;
+    background-color: #1b1b1b;
+}

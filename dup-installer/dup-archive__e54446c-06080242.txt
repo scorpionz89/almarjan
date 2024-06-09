@@ -1,0 +1,1155 @@
+{
+    "dup_type": "lite",
+    "created": "2024-06-06 08:02:42",
+    "version_dup": "1.5.9",
+    "version_wp": "6.5.4",
+    "version_db": "10.6.14",
+    "version_php": "8.1.22",
+    "version_os": "Linux",
+    "blogname": "Al Marjan NGO",
+    "exportOnlyDB": 0,
+    "secure_on": 0,
+    "secure_pass": "$2a$08$uSGa1VXyJn6Rdq4OMZaVSeb7ZaXJ\/Kc3HfNgvUwNHEzbcgiKyRUDa",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wpfr_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "almarjan.ngo",
+            "path": "\/",
+            "blogname": "Al Marjan NGO",
+            "blog_prefix": "wpfr_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "admin",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/almarjan.ngo",
+            "fullSiteUrl": "https:\/\/almarjan.ngo",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/uploads",
+            "fullUploadSafePath": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/almarjan.ngo\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "PHP",
+        "charSetList": [
+            "utf8mb4",
+            "utf8mb3"
+        ],
+        "collationList": [
+            "utf8mb3_general_ci",
+            "utf8mb4_unicode_520_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "hvuoqvbi_wp32",
+        "tablesBaseCount": 84,
+        "tablesFinalCount": 84,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 59363,
+        "tablesSizeOnDisk": 43696128,
+        "tablesList": {
+            "wpfr_actionscheduler_actions": {
+                "inaccurateRows": 18,
+                "insertedRows": 19,
+                "size": 131072
+            },
+            "wpfr_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_actionscheduler_groups": {
+                "inaccurateRows": 2,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wpfr_actionscheduler_logs": {
+                "inaccurateRows": 46,
+                "insertedRows": 53,
+                "size": 49152
+            },
+            "wpfr_commentmeta": {
+                "inaccurateRows": 36,
+                "insertedRows": 36,
+                "size": 49152
+            },
+            "wpfr_comments": {
+                "inaccurateRows": 79,
+                "insertedRows": 79,
+                "size": 163840
+            },
+            "wpfr_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wpfr_e_events": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_e_submissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 294912
+            },
+            "wpfr_e_submissions_actions_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wpfr_e_submissions_values": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_commentmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_comments": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_give_donationmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_donormeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_donors": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_formmeta": {
+                "inaccurateRows": 35672,
+                "insertedRows": 35962,
+                "size": 7913472
+            },
+            "wpfr_give_log": {
+                "inaccurateRows": 1527,
+                "insertedRows": 1563,
+                "size": 1785856
+            },
+            "wpfr_give_migrations": {
+                "inaccurateRows": 21,
+                "insertedRows": 21,
+                "size": 16384
+            },
+            "wpfr_give_revenue": {
+                "inaccurateRows": 759,
+                "insertedRows": 759,
+                "size": 65536
+            },
+            "wpfr_give_sequential_ordering": {
+                "inaccurateRows": 759,
+                "insertedRows": 759,
+                "size": 65536
+            },
+            "wpfr_give_sessions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_give_subscriptionmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_give_subscriptions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpfr_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_options": {
+                "inaccurateRows": 484,
+                "insertedRows": 492,
+                "size": 3260416
+            },
+            "wpfr_postmeta": {
+                "inaccurateRows": 15614,
+                "insertedRows": 16107,
+                "size": 14991360
+            },
+            "wpfr_posts": {
+                "inaccurateRows": 2393,
+                "insertedRows": 2278,
+                "size": 9322496
+            },
+            "wpfr_revslider_css": {
+                "inaccurateRows": 109,
+                "insertedRows": 109,
+                "size": 147456
+            },
+            "wpfr_revslider_css_bkp": {
+                "inaccurateRows": 47,
+                "insertedRows": 47,
+                "size": 32768
+            },
+            "wpfr_revslider_layer_animations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_revslider_layer_animations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_revslider_navigations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_revslider_navigations_bkp": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_revslider_sliders": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 180224
+            },
+            "wpfr_revslider_sliders_bkp": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 180224
+            },
+            "wpfr_revslider_slides": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 1261568
+            },
+            "wpfr_revslider_slides_bkp": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 540672
+            },
+            "wpfr_revslider_static_slides": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 32768
+            },
+            "wpfr_revslider_static_slides_bkp": {
+                "inaccurateRows": 10,
+                "insertedRows": 10,
+                "size": 32768
+            },
+            "wpfr_termmeta": {
+                "inaccurateRows": 53,
+                "insertedRows": 54,
+                "size": 49152
+            },
+            "wpfr_terms": {
+                "inaccurateRows": 60,
+                "insertedRows": 63,
+                "size": 49152
+            },
+            "wpfr_term_relationships": {
+                "inaccurateRows": 300,
+                "insertedRows": 288,
+                "size": 32768
+            },
+            "wpfr_term_taxonomy": {
+                "inaccurateRows": 60,
+                "insertedRows": 63,
+                "size": 49152
+            },
+            "wpfr_translentor_dictionary_en_en": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpfr_translentor_gettext_en": {
+                "inaccurateRows": 1058,
+                "insertedRows": 1058,
+                "size": 229376
+            },
+            "wpfr_translentor_original_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpfr_translentor_original_strings": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_usermeta": {
+                "inaccurateRows": 29,
+                "insertedRows": 33,
+                "size": 49152
+            },
+            "wpfr_users": {
+                "inaccurateRows": 0,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wpfr_wc_admin_notes": {
+                "inaccurateRows": 62,
+                "insertedRows": 66,
+                "size": 65536
+            },
+            "wpfr_wc_admin_note_actions": {
+                "inaccurateRows": 96,
+                "insertedRows": 96,
+                "size": 65536
+            },
+            "wpfr_wc_category_lookup": {
+                "inaccurateRows": 5,
+                "insertedRows": 5,
+                "size": 16384
+            },
+            "wpfr_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_orders": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 131072
+            },
+            "wpfr_wc_orders_meta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_order_addresses": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpfr_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_order_operational_data": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpfr_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wpfr_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_wc_product_attributes_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wpfr_wc_product_meta_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 114688
+            },
+            "wpfr_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wpfr_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpfr_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wpfr_woocommerce_sessions": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wpfr_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wpfr_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wpfr_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wpfr_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            }
+        },
+        "lowerCaseTableNames": 0,
+        "dbEngine": "MariaDB",
+        "version": "10.6.14",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 1,
+        "packageName": "20240606_almarjanngo",
+        "packageHash": "e54446c-06080242",
+        "secondaryHash": "94a9be1-06080242"
+    },
+    "fileInfo": {
+        "dirCount": 3555,
+        "fileCount": 27113,
+        "size": 618220922
+    },
+    "wpInfo": {
+        "version": "6.5.4",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+        "targetPaths": [
+            "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "admin",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "z5gcivqw80luld2ctwpfbskptj2d1fkgyncfuafxtzdxtuhodspvvhrwtsyfuxh1",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "nbhqf9kbegonqhyxdsuyci6dmlyy1b2m056cspmkte92se9josa0bdybslkxhyf3",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "oo5dye0qjhtocalbef0kx4cuwwwapfnkzjuirapmqcz6vu89t4ulikrbl3etdw3k",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "mvlu870gii6qc0a9rssn92wlud882jsapzezsz8p23kuzno3mmcrk69czqcoufh1",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "6d63u7ngt6beygmnjm7k6o1rmgji2ack8iyo0rre3hfam0iw6p0n1qxk9r0tkwti",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "7boxxtv5gf73pbcamwymatvmbaxbdzsrn1on5kj8d1gbyow7x49wrnoneytyeotv",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "1vker1in17kqq87ii2immderxdlorapdbxstshmhm8nt9xfl75itjywzho0cbdxr",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "hrhsyqek9mlcfk0qfekka0pif8selvbntjzuw3qtjrlu4wlf5bqwfrjuz1pmu5fi",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/almarjan.ngo\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/almarjan.ngo\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/themes\/bighearts",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/themes\/bighearts",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/almarjan.ngo\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/almarjan.ngo",
+                "homeUrl": "https:\/\/almarjan.ngo",
+                "loginUrl": "https:\/\/almarjan.ngo\/wp-login.php",
+                "contentUrl": "https:\/\/almarjan.ngo\/wp-content",
+                "uploadBaseUrl": "https:\/\/almarjan.ngo\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/almarjan.ngo\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/almarjan.ngo\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/almarjan.ngo\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "abs": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "wpconfig": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "wpcontent": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content",
+                    "uploads": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "abs": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "wpconfig": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html",
+                    "wpcontent": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content",
+                    "uploads": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/uploads",
+                    "plugins": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/plugins",
+                    "muplugins": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/mu-plugins",
+                    "themes": "\/home\/hvuoqvbi\/domains\/almarjan.ngo\/public_html\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "akismet\/akismet.php": {
+                "slug": "akismet\/akismet.php",
+                "name": "Akismet Anti-spam: Spam Protection",
+                "version": "5.3.1",
+                "pluginURI": "https:\/\/akismet.com\/",
+                "author": "Automattic - Anti-spam Team",
+                "authorURI": "https:\/\/automattic.com\/wordpress-plugins\/",
+                "description": "Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. Akismet Anti-spam keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.",
+                "title": "Akismet Anti-spam: Spam Protection",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "all-in-one-wp-migration\/all-in-one-wp-migration.php": {
+                "slug": "all-in-one-wp-migration\/all-in-one-wp-migration.php",
+                "name": "All-in-One WP Migration",
+                "version": "7.82",
+                "pluginURI": "https:\/\/servmask.com\/",
+                "author": "ServMask",
+                "authorURI": "https:\/\/servmask.com\/",
+                "description": "Migration tool for all your blog data. Import or Export your blog content with a single click.",
+                "title": "All-in-One WP Migration",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "backuply\/backuply.php": {
+                "slug": "backuply\/backuply.php",
+                "name": "Backuply",
+                "version": "1.2.8",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/backuply\/",
+                "author": "Softaculous",
+                "authorURI": "https:\/\/backuply.com",
+                "description": "Backuply is a Wordpress Backup plugin. Backups are the best form of security and safety a website can have.",
+                "title": "Backuply",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "bighearts-core\/wgl-core.php": {
+                "slug": "bighearts-core\/wgl-core.php",
+                "name": "BigHearts Core",
+                "version": "3.0.3",
+                "pluginURI": "https:\/\/themeforest.net\/user\/webgeniuslab",
+                "author": "WebGeniusLab",
+                "authorURI": "https:\/\/themeforest.net\/user\/webgeniuslab",
+                "description": "Core plugin for BigHearts Theme.",
+                "title": "BigHearts Core",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.9.3",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wpdeepl\/wpdeepl.php": {
+                "slug": "wpdeepl\/wpdeepl.php",
+                "name": "DeepL for WordPress : translation plugin",
+                "version": "2.4.3.5",
+                "pluginURI": "",
+                "author": "Fluenx",
+                "authorURI": "https:\/\/www.fluenx.com\/",
+                "description": "Get DeepL translation magic right inside your WordPress editor (with a paid DeepL Pro account)",
+                "title": "DeepL for WordPress : translation plugin",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.9",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor\/elementor.php": {
+                "slug": "elementor\/elementor.php",
+                "name": "Elementor",
+                "version": "3.20.2",
+                "pluginURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=plugin-uri&utm_medium=wp-dash",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/elementor.com\/?utm_source=wp-plugins&utm_campaign=author-uri&utm_medium=wp-dash",
+                "description": "The Elementor Website Builder has it all: drag and drop page builder, pixel perfect design, mobile responsive editing, and more. Get started now!",
+                "title": "Elementor",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "elementor-pro\/elementor-pro.php": {
+                "slug": "elementor-pro\/elementor-pro.php",
+                "name": "Elementor Pro",
+                "version": "3.15.1",
+                "pluginURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "author": "Elementor.com",
+                "authorURI": "https:\/\/go.elementor.com\/wp-dash-wp-plugins-author-uri\/",
+                "description": "Elevate your designs and unlock the full power of Elementor. Gain access to dozens of Pro widgets and kits, Theme Builder, Pop Ups, Forms and WooCommerce building capabilities.",
+                "title": "Elementor Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "give\/give.php": {
+                "slug": "give\/give.php",
+                "name": "Give - Donation Plugin",
+                "version": "2.33.5",
+                "pluginURI": "https:\/\/givewp.com",
+                "author": "GiveWP",
+                "authorURI": "https:\/\/givewp.com\/",
+                "description": "The most robust, flexible, and intuitive way to accept donations on WordPress.",
+                "title": "Give - Donation Plugin",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gosmtp\/gosmtp.php": {
+                "slug": "gosmtp\/gosmtp.php",
+                "name": "GoSMTP",
+                "version": "1.0.5",
+                "pluginURI": "https:\/\/gosmtp.net",
+                "author": "Softaculous Team",
+                "authorURI": "https:\/\/softaculous.com",
+                "description": "Send emails from your WordPress site using your preferred SMTP provider like Gmail, Outlook, AWS, Zoho, SMTP.com, Sendinblue, Mailgun, Postmark, Sendgrid, Sparkpost, Sendlayer or any custom SMTP provider.",
+                "title": "GoSMTP",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "gtranslate\/gtranslate.php": {
+                "slug": "gtranslate\/gtranslate.php",
+                "name": "GTranslate",
+                "version": "3.0.6",
+                "pluginURI": "https:\/\/gtranslate.io\/?xyz=998",
+                "author": "Translate AI Multilingual Solutions",
+                "authorURI": "https:\/\/gtranslate.io",
+                "description": "Translate your website and make it multilingual. For support visit <a href=\"https:\/\/wordpress.org\/support\/plugin\/gtranslate\">GTranslate Support Forum<\/a>.",
+                "title": "GTranslate",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "hello.php": {
+                "slug": "hello.php",
+                "name": "Hello Dolly",
+                "version": "1.7.2",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "author": "Matt Mullenweg",
+                "authorURI": "http:\/\/ma.tt\/",
+                "description": "This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.",
+                "title": "Hello Dolly",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "siteseo\/siteseo.php": {
+                "slug": "siteseo\/siteseo.php",
+                "name": "SiteSEO",
+                "version": "1.0.5",
+                "pluginURI": "http:\/\/wordpress.org\/plugins\/siteseo\/",
+                "author": "Softaculous",
+                "authorURI": "https:\/\/siteseo.io\/",
+                "description": "This plugin handles On Page SEO, Content Analysis, Social Previews, Google Preview, Hyperlink Analysis, Image Analysis, Home Page Monitor, Schemas for various type of posts.",
+                "title": "SiteSEO",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "revslider\/revslider.php": {
+                "slug": "revslider\/revslider.php",
+                "name": "Slider Revolution",
+                "version": "6.6.20",
+                "pluginURI": "https:\/\/www.sliderrevolution.com\/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info",
+                "author": "ThemePunch",
+                "authorURI": "https:\/\/themepunch.com\/?utm_source=admin&utm_medium=button&utm_campaign=srusers&utm_content=info",
+                "description": "Slider Revolution - More than just a WordPress Slider",
+                "title": "Slider Revolution",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "speedycache\/speedycache.php": {
+                "slug": "speedycache\/speedycache.php",
+                "name": "SpeedyCache",
+                "version": "1.1.4",
+                "pluginURI": "https:\/\/speedycache.com",
+                "author": "Softaculous Team",
+                "authorURI": "https:\/\/speedycache.com\/",
+                "description": "SpeedyCache is a plugin that helps you reduce the load time of your website by means of caching, minification, and compression of your website.",
+                "title": "SpeedyCache",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "speedycache-pro\/speedycache-pro.php": {
+                "slug": "speedycache-pro\/speedycache-pro.php",
+                "name": "SpeedyCache Pro",
+                "version": "1.1.4",
+                "pluginURI": "https:\/\/speedycache.com",
+                "author": "Softaculous Team",
+                "authorURI": "https:\/\/speedycache.com\/",
+                "description": "SpeedyCache is a plugin that helps you reduce the load time of your website by means of caching, minification, and compression of your website.",
+                "title": "SpeedyCache Pro",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "translatepress-multilingual\/index.php": {
+                "slug": "translatepress-multilingual\/index.php",
+                "name": "TranslatePress - Multilingual",
+                "version": "2.7.4",
+                "pluginURI": "https:\/\/translatepress.com\/",
+                "author": "Cozmoslabs, Razvan Mocanu, Madalin Ungureanu, Cristophor Hurduban",
+                "authorURI": "https:\/\/cozmoslabs.com\/",
+                "description": "Experience a better way of translating your WordPress site using a visual front-end translation editor, with full support for WooCommerce and site builders.",
+                "title": "TranslatePress - Multilingual",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "8.7.0",
+                "pluginURI": "https:\/\/woo.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woo.com",
+                "description": "An ecommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": false,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "bighearts": {
+                "slug": "bighearts",
+                "themeName": "BigHearts",
+                "version": "3.0.4",
+                "themeURI": "http:\/\/bighearts.webgeniuslab.net\/",
+                "parentTheme": false,
+                "template": "bighearts",
+                "stylesheet": "bighearts",
+                "description": "WebGeniusLab team presents absolutely fresh and powerful WordPress theme. It combines new technologies and functional design that helps to showcase your content in better way. This WordPress theme is developed with attention to details, so you can create effective presentation of a website easily. Enjoy building web pages with our product!",
+                "author": "WebGeniusLab",
+                "authorURI": "http:\/\/webgeniuslab.net\/",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "twentytwentyfour": {
+                "slug": "twentytwentyfour",
+                "themeName": "Twenty Twenty-Four",
+                "version": "1.0",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentyfour\/",
+                "parentTheme": false,
+                "template": "twentytwentyfour",
+                "stylesheet": "twentytwentyfour",
+                "description": "Twenty Twenty-Four is designed to be flexible, versatile and applicable to any website. Its collection of templates and patterns tailor to different needs, such as presenting a business, blogging and writing or showcasing work. A multitude of possibilities open up with just a few adjustments to color and typography. Twenty Twenty-Four comes with style variations and full page designs to help speed up the site building process, is fully compatible with the site editor, and takes advantage of new design tools introduced in WordPress 6.4.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": true
+            },
+            "twentytwentythree": {
+                "slug": "twentytwentythree",
+                "themeName": "Twenty Twenty-Three",
+                "version": "1.3",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentythree",
+                "parentTheme": false,
+                "template": "twentytwentythree",
+                "stylesheet": "twentytwentythree",
+                "description": "Twenty Twenty-Three is designed to take advantage of the new design tools introduced in WordPress 6.1. With a clean, blank base as a starting point, this default theme includes ten diverse style variations created by members of the WordPress community. Whether you want to build a complex or incredibly simple website, you can do it quickly and intuitively through the bundled styles or dive into creation and full customization yourself.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "translation-ready",
+                    "wide-blocks",
+                    "block-styles",
+                    "style-variations",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            },
+            "twentytwentytwo": {
+                "slug": "twentytwentytwo",
+                "themeName": "Twenty Twenty-Two",
+                "version": "1.6",
+                "themeURI": "https:\/\/wordpress.org\/themes\/twentytwentytwo\/",
+                "parentTheme": false,
+                "template": "twentytwentytwo",
+                "stylesheet": "twentytwentytwo",
+                "description": "Built on a solidly designed foundation, Twenty Twenty-Two embraces the idea that everyone deserves a truly unique website. The theme\u2019s subtle styles are inspired by the diversity and versatility of birds: its typography is lightweight yet strong, its color palette is drawn from nature, and its layout elements sit gently on the page. The true richness of Twenty Twenty-Two lies in its opportunity for customization. The theme is built to take advantage of the Site Editor features introduced in WordPress 5.9, which means that colors, typography, and the layout of every single page on your site can be customized to suit your vision. It also includes dozens of block patterns, opening the door to a wide range of professionally designed layouts in just a few clicks. Whether you\u2019re building a single-page website, a blog, a business website, or a portfolio, Twenty Twenty-Two will help you create a site that is uniquely yours.",
+                "author": "the WordPress team",
+                "authorURI": "https:\/\/wordpress.org\/",
+                "tags": [
+                    "one-column",
+                    "custom-colors",
+                    "custom-menu",
+                    "custom-logo",
+                    "editor-style",
+                    "featured-images",
+                    "full-site-editing",
+                    "block-patterns",
+                    "rtl-language-support",
+                    "sticky-post",
+                    "threaded-comments",
+                    "style-variations",
+                    "wide-blocks",
+                    "block-styles",
+                    "accessibility-ready",
+                    "blog",
+                    "portfolio",
+                    "news"
+                ],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "defaultStorageId": -1,
+    "components": [
+        "package_component_db",
+        "package_component_core",
+        "package_component_plugins",
+        "package_component_themes",
+        "package_component_uploads",
+        "package_component_other"
+    ],
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "Al Marjan NGO"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20240606_almarjanngo_e54446cdd83f3e313043_20240606080242_installer-backup.php",
+    "package_name": "20240606_almarjanngo_e54446cdd83f3e313043_20240606080242_archive.zip",
+    "package_hash": "e54446c-06080242",
+    "package_notes": ""
+}
